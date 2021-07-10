@@ -1,0 +1,89 @@
+2021-07-10 15:52:43 ERROR ChartDaoImpl:40 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '1-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1-2' for key 'PRIMARY'
+2021-07-10 15:52:43 ERROR ChartDaoImpl:40 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '2-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2-2' for key 'PRIMARY'
+2021-07-10 15:52:43 ERROR ChartDaoImpl:40 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '3-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '3-2' for key 'PRIMARY'
+2021-07-10 15:55:43 ERROR ChartDaoImpl:40 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '1-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1-2' for key 'PRIMARY'
+2021-07-10 15:55:43 ERROR ChartDaoImpl:40 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '2-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2-2' for key 'PRIMARY'
+2021-07-10 15:55:43 ERROR ChartDaoImpl:40 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '3-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '3-2' for key 'PRIMARY'
+2021-07-10 15:57:44 ERROR ChartDaoImpl:40 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '1-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1-2' for key 'PRIMARY'
+2021-07-10 15:57:44 ERROR ChartDaoImpl:40 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '2-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2-2' for key 'PRIMARY'
+2021-07-10 15:57:44 ERROR ChartDaoImpl:40 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '3-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '3-2' for key 'PRIMARY'
+2021-07-10 16:00:00 ERROR ChartDaoImpl:40 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '1-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1-2' for key 'PRIMARY'
+2021-07-10 16:00:00 ERROR ChartDaoImpl:40 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '2-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2-2' for key 'PRIMARY'
+2021-07-10 16:00:00 ERROR ChartDaoImpl:40 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '3-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '3-2' for key 'PRIMARY'
+2021-07-10 16:00:08 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 16:00:08 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 16:00:08 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 18:00:52 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 18:00:52 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 18:00:52 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 18:01:08 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 18:12:26 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 18:29:26 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 18:30:59 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 18:32:18 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 19:29:59 ERROR PembeliDaoImpl:40 - pembeli not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 19:32:43 ERROR PembeliDaoImpl:40 - pembeli not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 19:33:02 ERROR PembeliDaoImpl:40 - pembeli not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 19:39:40 ERROR ChartDaoImpl:50 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '1-1' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1-1' for key 'PRIMARY'
+2021-07-10 19:47:15 ERROR ChartDaoImpl:50 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '1-1' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1-1' for key 'PRIMARY'
+2021-07-10 19:47:15 ERROR ChartDaoImpl:50 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '3-1' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '3-1' for key 'PRIMARY'
+2021-07-10 19:47:55 ERROR ChartDaoImpl:50 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '1-1' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1-1' for key 'PRIMARY'
+2021-07-10 19:47:55 ERROR ChartDaoImpl:50 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '2-1' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2-1' for key 'PRIMARY'
+2021-07-10 19:47:55 ERROR ChartDaoImpl:50 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '3-1' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '3-1' for key 'PRIMARY'
+2021-07-10 19:53:49 ERROR ChartDaoImpl:50 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '1-1' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1-1' for key 'PRIMARY'
+2021-07-10 19:54:06 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 19:54:17 ERROR ChartDaoImpl:50 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '1-1' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1-1' for key 'PRIMARY'
+2021-07-10 20:14:14 ERROR PembeliDaoImpl:40 - pembeli not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 20:19:13 ERROR ChartDaoImpl:50 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '1-1' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1-1' for key 'PRIMARY'
+2021-07-10 20:19:18 ERROR ChartDaoImpl:50 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '1-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1-2' for key 'PRIMARY'
+2021-07-10 20:21:02 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 20:53:48 ERROR PembeliDaoImpl:41 - pembeli not found dao : PreparedStatementCallback; uncategorized SQLException for SQL [SELECT idpembeli,nama from pembeli where nama= ?]; SQL state [S0022]; error code [0]; Column 'password' not found.; nested exception is java.sql.SQLException: Column 'password' not found.
+2021-07-10 20:55:54 ERROR PembeliDaoImpl:41 - pembeli not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 20:56:02 ERROR PembeliDaoImpl:41 - pembeli not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 20:56:06 ERROR PembeliDaoImpl:41 - pembeli not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 21:04:07 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 21:08:36 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 21:08:45 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 21:22:10 ERROR PembeliDaoImpl:41 - pembeli not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 21:24:00 ERROR ChartDaoImpl:50 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '1-1' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1-1' for key 'PRIMARY'
+2021-07-10 21:32:13 ERROR ChartDaoImpl:50 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '1-1' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1-1' for key 'PRIMARY'
+2021-07-10 21:32:13 ERROR ChartDaoImpl:50 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '2-1' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2-1' for key 'PRIMARY'
+2021-07-10 21:32:13 ERROR ChartDaoImpl:50 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '3-1' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '3-1' for key 'PRIMARY'
+2021-07-10 21:32:41 ERROR PembeliDaoImpl:41 - pembeli not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 21:33:32 ERROR PembeliDaoImpl:41 - pembeli not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 21:35:25 ERROR ChartDaoImpl:50 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '1-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1-2' for key 'PRIMARY'
+2021-07-10 21:35:25 ERROR ChartDaoImpl:50 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '2-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2-2' for key 'PRIMARY'
+2021-07-10 21:35:25 ERROR ChartDaoImpl:50 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '3-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '3-2' for key 'PRIMARY'
+2021-07-10 21:36:39 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 22:17:51 ERROR PembeliDaoImpl:38 - pembeli not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 22:23:07 ERROR ChartDaoImpl:49 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '1-1' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1-1' for key 'PRIMARY'
+2021-07-10 22:23:11 ERROR ChartDaoImpl:49 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '1-1' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1-1' for key 'PRIMARY'
+2021-07-10 22:23:24 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 23:04:12 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 23:15:17 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 23:17:57 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 23:20:34 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 23:20:40 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 23:39:29 ERROR ChartDaoImpl:49 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '2-1' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2-1' for key 'PRIMARY'
+2021-07-10 23:39:50 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 23:39:58 ERROR ChartDaoImpl:49 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '2-1' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2-1' for key 'PRIMARY'
+2021-07-10 23:41:45 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 23:43:13 ERROR ChartDaoImpl:49 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '2-1' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2-1' for key 'PRIMARY'
+2021-07-10 23:43:31 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 23:56:53 ERROR ChartDaoImpl:49 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '1-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1-2' for key 'PRIMARY'
+2021-07-10 23:56:53 ERROR ChartDaoImpl:49 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '2-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2-2' for key 'PRIMARY'
+2021-07-10 23:56:53 ERROR ChartDaoImpl:49 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '3-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '3-2' for key 'PRIMARY'
+2021-07-10 23:57:21 ERROR ChartDaoImpl:49 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '1-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1-2' for key 'PRIMARY'
+2021-07-10 23:57:21 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 23:57:21 ERROR ChartDaoImpl:49 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '3-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '3-2' for key 'PRIMARY'
+2021-07-10 23:57:40 ERROR ChartDaoImpl:49 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '1-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1-2' for key 'PRIMARY'
+2021-07-10 23:57:40 ERROR ChartDaoImpl:49 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '2-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2-2' for key 'PRIMARY'
+2021-07-10 23:57:40 ERROR ChartDaoImpl:49 - cannot insert chart : PreparedStatementCallback; SQL [INSERT INTO chart VALUES(?,?,?)]; Duplicate entry '3-2' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '3-2' for key 'PRIMARY'
+2021-07-10 23:58:55 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 23:58:55 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-10 23:58:55 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-11 00:19:39 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-11 00:47:13 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-11 00:47:25 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-11 00:47:30 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
+2021-07-11 00:48:39 ERROR ItemsDaoimpl:42 - items not found dao : Incorrect result size: expected 1, actual 0
